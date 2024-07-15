@@ -1,6 +1,6 @@
 # Foro Hub
 
-Foro hub es una aplicación web desarrollada utilizando el framework Spring Boot, diseñada para facilitar la creación y gestión de foros en línea. Esta aplicación permite a los usuarios crear tópicos de discusión, publicar respuestas y gestionar sus perfiles.
+Foro hub es una API desarrollada utilizando el framework Spring Boot, diseñada para facilitar la creación y gestión de foros en línea. Esta aplicación permite a los usuarios crear tópicos de discusión, publicar respuestas y gestionar sus perfiles.
 
 ## Características
 
@@ -25,7 +25,7 @@ Para ejecutar este proyecto, necesitarás tener instalado Java y Maven. Puedes v
 ```bash
 java -version
 mvn -version
-
+```
 ## Cómo Empezar
 
 Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
@@ -34,4 +34,4 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 2. Asegúrate de tener Java JDK 11 o superior instalado.
 3. Abre el proyecto en tu IDE.
 4. Ejecuta el proyecto a través de tu IDE o utilizando el comando `mvn spring-boot:run` en la terminal.
-5. Interactúa con la aplicación a través de la línea de comandos.
+5. Interactúa con la aplicación a través Postman o insomnia
